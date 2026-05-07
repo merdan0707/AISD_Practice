@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Algorithms\Stooge sort\StoogeSortLab\StoogeSort\bin\Debug\net8.0\StoogeSort.exe
+C:\Users\User\Desktop\Algorithms\Stooge sort\StoogeSortLab\StoogeSort\bin\Debug\net8.0\StoogeSort.deps.json
+C:\Users\User\Desktop\Algorithms\Stooge sort\StoogeSortLab\StoogeSort\bin\Debug\net8.0\StoogeSort.runtimeconfig.json
+C:\Users\User\Desktop\Algorithms\Stooge sort\StoogeSortLab\StoogeSort\bin\Debug\net8.0\StoogeSort.dll
+C:\Users\User\Desktop\Algorithms\Stooge sort\StoogeSortLab\StoogeSort\bin\Debug\net8.0\StoogeSort.pdb
+C:\Users\User\Desktop\Algorithms\Stooge sort\StoogeSortLab\StoogeSort\obj\Debug\net8.0\StoogeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Algorithms\Stooge sort\StoogeSortLab\StoogeSort\obj\Debug\net8.0\StoogeSort.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Algorithms\Stooge sort\StoogeSortLab\StoogeSort\obj\Debug\net8.0\StoogeSort.AssemblyInfo.cs
+C:\Users\User\Desktop\Algorithms\Stooge sort\StoogeSortLab\StoogeSort\obj\Debug\net8.0\StoogeSort.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Algorithms\Stooge sort\StoogeSortLab\StoogeSort\obj\Debug\net8.0\StoogeSort.dll
+C:\Users\User\Desktop\Algorithms\Stooge sort\StoogeSortLab\StoogeSort\obj\Debug\net8.0\refint\StoogeSort.dll
+C:\Users\User\Desktop\Algorithms\Stooge sort\StoogeSortLab\StoogeSort\obj\Debug\net8.0\StoogeSort.pdb
+C:\Users\User\Desktop\Algorithms\Stooge sort\StoogeSortLab\StoogeSort\obj\Debug\net8.0\StoogeSort.genruntimeconfig.cache
+C:\Users\User\Desktop\Algorithms\Stooge sort\StoogeSortLab\StoogeSort\obj\Debug\net8.0\ref\StoogeSort.dll

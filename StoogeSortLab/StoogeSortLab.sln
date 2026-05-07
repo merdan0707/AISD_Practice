@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoogeSort", "StoogeSort\StoogeSort.csproj", "{D58E431C-5DEE-4538-A852-5BBF7D073C3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D58E431C-5DEE-4538-A852-5BBF7D073C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58E431C-5DEE-4538-A852-5BBF7D073C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58E431C-5DEE-4538-A852-5BBF7D073C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58E431C-5DEE-4538-A852-5BBF7D073C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
