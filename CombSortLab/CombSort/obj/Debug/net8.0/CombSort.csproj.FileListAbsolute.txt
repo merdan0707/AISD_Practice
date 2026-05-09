@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\AISD_Practice\CombSortLab\CombSort\bin\Debug\net8.0\CombSort.exe
+C:\Users\User\Desktop\AISD_Practice\CombSortLab\CombSort\bin\Debug\net8.0\CombSort.deps.json
+C:\Users\User\Desktop\AISD_Practice\CombSortLab\CombSort\bin\Debug\net8.0\CombSort.runtimeconfig.json
+C:\Users\User\Desktop\AISD_Practice\CombSortLab\CombSort\bin\Debug\net8.0\CombSort.dll
+C:\Users\User\Desktop\AISD_Practice\CombSortLab\CombSort\bin\Debug\net8.0\CombSort.pdb
+C:\Users\User\Desktop\AISD_Practice\CombSortLab\CombSort\obj\Debug\net8.0\CombSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\AISD_Practice\CombSortLab\CombSort\obj\Debug\net8.0\CombSort.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AISD_Practice\CombSortLab\CombSort\obj\Debug\net8.0\CombSort.AssemblyInfo.cs
+C:\Users\User\Desktop\AISD_Practice\CombSortLab\CombSort\obj\Debug\net8.0\CombSort.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AISD_Practice\CombSortLab\CombSort\obj\Debug\net8.0\CombSort.sourcelink.json
+C:\Users\User\Desktop\AISD_Practice\CombSortLab\CombSort\obj\Debug\net8.0\CombSort.dll
+C:\Users\User\Desktop\AISD_Practice\CombSortLab\CombSort\obj\Debug\net8.0\refint\CombSort.dll
+C:\Users\User\Desktop\AISD_Practice\CombSortLab\CombSort\obj\Debug\net8.0\CombSort.pdb
+C:\Users\User\Desktop\AISD_Practice\CombSortLab\CombSort\obj\Debug\net8.0\CombSort.genruntimeconfig.cache
+C:\Users\User\Desktop\AISD_Practice\CombSortLab\CombSort\obj\Debug\net8.0\ref\CombSort.dll
